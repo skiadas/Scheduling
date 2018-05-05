@@ -1,0 +1,13 @@
+*.class
+bin/
+.classpath
+.project
+.settings
+.recommenders
+
+.gradletasknamecache
+.gradle/
+build/
+
+local.properties
+
